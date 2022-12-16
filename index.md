@@ -1,10 +1,10 @@
-# Hello World
+# Hello There!
 
-This is my home page! My name is Felipe Renteria Castro and I am a student
+This is my home page! My name is Felipe Renteria Castro and I am a student at Cal State University Fullerton. I'm studying to recieve a major in Eletrical Engineering.
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/Felipe-001/Felipe-001.github.io.git
+My GitHub page is <https://github.com/Felipe-001/Felipe-001.github.io.git>
 
 ## CPSC 120
 
