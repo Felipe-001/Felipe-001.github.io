@@ -4,9 +4,9 @@ This is my home page! My name is Felipe Renteria Castro and I am a student at Ca
 
 ## Computer Science Projects
 
-My GitHub page is <https://github.com/Felipe-001.>
+My GitHub page is https://github.com/Felipe-001.
 
-## CPSC 120
+### CPSC 120
 
 * Lab 2
 
